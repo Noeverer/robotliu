@@ -1,0 +1,107 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+
+#box{
+	width: 800px;
+	margin: 0 auto;
+}
+
+
+
+
+
+#logol{text-align:center;height:100px;color: -webkit-link;/*width: 800px;*//*background-color: red;*//*float: center;*/}
+#image {background-position: center;}
+
+
+
+/*#nav{
+	height: 30px;
+	width: 800px;
+	background-color: lavender;
+	
+}
+#nav>ul{
+	float: left;
+}
+#nav>ul>li{
+	list-style-type: none;
+	display: inline-block;   转化位内联块
+	text-align: center;
+	line-height: 30px;
+	width: 80px;
+	background-color: yellowgreen;		
+}*/
+
+
+#nav{/*margin: 5px 100px;*/ /*width: 800px;*/ height: 42px;background-color: lavender;}
+#nav ul{width: 630px;margin: 0 auto;}
+#nav ul li{list-style: none; float: right;}
+#nav ul li a{display: inline-block;background-color: #CCC;color: #000;text-decoration: none;padding: 10px 20px;}
+#nav ul li a:hover{background-color: lightcoral;color: #FFF;}
+
+
+#time{height: 40px;background-color: blue;align-content: center;}
+
+
+
+
+
+
+
+#main{
+	height: auto;
+	width: auto;
+}
+
+li {list-style: none;}
+li a{color: #434343 ;text-decoration: none;}
+#left_main{width: 180px ;height: 680px;float: left;background-color: lawngreen;	}
+
+#menu news{color:red;}
+#menu li a{background:url(../img/03.png);color: #434343; text-decoration: none;/*width: 300px;height: 10px;*/}
+#menu li{font-size: 20px;line-height: 30px;text-indent: 10px; width: 40px;}
+#menu ul {display: none;}
+#menu ul li{text-indent: 30px;}
+#menu>li:hover ul{display: block;}
+/*时刻注意是menu还是left_main下的id ,这个是我调试一晚上所得的经验*/
+
+
+
+
+
+#right_main{padding:0,margin:0 200px ;width: auto;background-color: blueviolet;/*float: right;}*/
+/*#right_main {background-color: blue; /*float: right;*//*height: auto;*/}*/
+
+#media{width: auto;}
+
+
+
+
+
+
+
+
+#footer{/*margin: 900px auto;width: auto;height: 100px;*/background-color: yellow;}
+#text p{background-color: yellowgreen;align-content: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
